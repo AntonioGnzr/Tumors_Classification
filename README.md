@@ -7,6 +7,7 @@ Build a model that it's able to classify correctly the different types of tumors
 
 **Dataset Information**
 The dataset can be found at the following url: [LINK](https://archive.ics.uci.edu/ml/datasets/Primary+Tumor "LINK")
+
 It contains 339 observations and 18 attributes (including the class attribute)
 
 **Attribute Information:**
