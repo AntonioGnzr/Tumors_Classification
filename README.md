@@ -2,10 +2,10 @@
 
 This primary tumor domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia. Thanks go to M. Zwitter and M. Soklic for providing the data.
 
-**Objective**
-Build a model that it's able to classify correctly the different types of tumors.
+**Objective:**
+Build a model that it's able to correctly classify the different types of tumors.
 
-**Dataset Information**
+**Dataset Information:**
 The dataset can be found at the following url: [LINK](https://archive.ics.uci.edu/ml/datasets/Primary+Tumor "LINK")
 
 It contains 339 observations and 18 attributes (including the class attribute)
